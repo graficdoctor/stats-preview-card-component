@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/graficdoctor/stats-preview-card-component](https://github.com/graficdoctor/stats-preview-card-component)
+- Live Site URL: [https://stats-preview-card-component-five-pi.vercel.app/](https://stats-preview-card-component-five-pi.vercel.app/)
 
 ## My process
 
